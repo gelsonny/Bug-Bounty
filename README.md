@@ -9,18 +9,18 @@ The purpose of this script is to ease it out according to my need and usage, thi
 2- identify all end points for fuzzing and exploring
 3- use your mind!
 
-Installation and usage
+# Installation and usage
 -written in bash , feel free to git clone or wget and start using
 -chmod +x Automation.sh
 -./Automation.sh target.com
 
 
-Tools needed:
-#1 crt.sh ==> https://github.com/az7rb/crt.sh (no installation repo or candidate found in kali)
-#2 sublist3r , on kali linux ==> apt install sublist3r, or download it from the below link
+# Tools needed:
+1. crt.sh ==> https://github.com/az7rb/crt.sh (no installation repo or candidate found in kali)
+2. sublist3r , on kali linux ==> apt install sublist3r, or download it from the below link
 https://github.com/aboul3la/Sublist3r 
-#3 assetfinder, on kali linux ==> apt install assetfinder, or download it from the below link
+3. assetfinder, on kali linux ==> apt install assetfinder, or download it from the below link
 https://github.com/tomnomnom/assetfinder
-#4 subfinder , on kali linux ==>apt install subfinder , or download it from the below link
+4. subfinder , on kali linux ==>apt install subfinder , or download it from the below link
 https://github.com/tomnomnom/assetfinder
 
